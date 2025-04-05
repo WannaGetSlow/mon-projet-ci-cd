@@ -2,7 +2,7 @@
   "name": "mon-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/WannaGetSlow/mon-projet-ci-cd.git",
+  "homepage": "https://wannagetslow.github.io/mon-projet-ci-cd",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
